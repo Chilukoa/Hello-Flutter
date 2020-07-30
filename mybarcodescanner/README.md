@@ -1,6 +1,6 @@
 # mybarcodescanner
 
-A new Flutter project.
+A new Flutter project. Scans a barcode and prints result on the UI. Works on both IOS and android. 
 
 ## Getting Started
 
