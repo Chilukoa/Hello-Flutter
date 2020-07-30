@@ -32,7 +32,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Scan a barcode', style: TextStyle(color: Colors.white,fontWeight: FontWeight.w300,fontSize: 40,fontFamily:'Niconne'),
+        title: const Text('Scan barcode', style: TextStyle(color: Colors.white,fontWeight: FontWeight.w300,fontSize: 40,fontFamily:'Niconne'),
 
         ),
         elevation: 100.0,
