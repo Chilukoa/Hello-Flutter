@@ -9,7 +9,7 @@ class MyCart extends StatefulWidget {
 class _MyCartState extends State<MyCart> {
   @override
   Widget build(BuildContext context) {
-    return Scaffold(appBar: AppBar(title: Text('My shopping cart'),backgroundColor: Colors.red,),
+    return Scaffold(appBar: AppBar(title: Text('Checkout'),backgroundColor: Colors.red,),
       body:Container(child: Center(child: Text('Pay here!'),),
       
     ));
