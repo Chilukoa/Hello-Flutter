@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "973403750955",
+    "firebase_url": "https://seller-fw.firebaseio.com",
+    "project_id": "seller-fw",
+    "storage_bucket": "seller-fw.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:973403750955:android:d1272d1ea892588365206e",
+        "android_client_info": {
+          "package_name": "com.example.SellerFW"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "973403750955-8h9880i3dukm6jutmgk6rd12mmbee3tb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaXWO17w4U75FR9vw-vGAVoa1wEqvAAzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "973403750955-8h9880i3dukm6jutmgk6rd12mmbee3tb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
